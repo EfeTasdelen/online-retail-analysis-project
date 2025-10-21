@@ -1,4 +1,4 @@
-# Online Retail II Analysis (SQL + Python + Tableau)
+# Online Retail Analysis (SQL + Python + Tableau)
 
 ## Project Overview
 This project is an end-to-end analysis of the **Online Retail II dataset**.  
