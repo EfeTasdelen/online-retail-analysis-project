@@ -34,23 +34,26 @@ The goal is to demonstrate practical skills in **data extraction, transformation
 
 ---
 
-##  Project Structure
-online-retail-ii-project/
-├─ data/ # Raw & cleaned data
-│ └─ online_retail_II.xlsx
-├─ sql/ # SQL schema & queries
-│ ├─ 01_schema.sql
-│ ├─ 02_cleaning.sql
-│ └─ 03_kpi_queries.sql
-├─ notebooks/ # Python notebooks
-│ ├─ 01_eda.ipynb
-│ ├─ 02_rfm_cohort.ipynb
-│ └─ 03_basket_analysis.ipynb
-├─ tableau/
-│ └─ OnlineRetailII.twbx # Tableau dashboard
-├─ images/ # Dashboard screenshots
-└─ README.md
----
+## Project Structure
+📁 data  
+　┣  online_retail_II.xlsx (original data)  
+　┗  online_retail_clean.csv (clean & organized data)  
+
+📁 sql  
+　┣  01_schema.sql  
+　┣  02_cleaning.sql  
+　┗  03_kpi_queries.sql  
+
+📁 notebooks  
+　┣  01_eda.ipynb  
+　┣  02_rfm_cohort.ipynb  
+　┗  03_basket_analysis.ipynb  
+
+📁 tableau  
+　┗ OnlineRetailII.twbx  
+
+📁 images  
+　┗ dashboard_screenshot.png  
 
 ## Analysis Roadmap
 1. **Data Cleaning (SQL & Python)**  
